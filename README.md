@@ -1,5 +1,7 @@
 # PlayerEndpoint Example
 
+have created a library for simplifing the use of kurento-client I recommend you to take a look [lib-kurento](https://github.com/givo/lib-kurento)
+
 ## Introduction
 
 The PlayerEndpoint example 
